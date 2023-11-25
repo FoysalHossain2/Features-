@@ -1,0 +1,292 @@
+/* ==============================================================
+       ******* @media  Medium devices  responsive end *******
+=================================================================*/
+
+/* ==============================================================
+     header navbar section responsive  Medium devices start
+================================================================ */
+@media (max-width: 991px) {
+    #header-navbar-section .custom-navbar ul li a {
+        text-align: center;
+        margin: 10px 0;
+    }
+
+    /*==================================================
+        header-navbar-section responsive start 
+     ================================================== */
+    #header-navbar-section .btn {
+        width: 100%;
+        text-align: center;
+        background-color: var(--button-color);
+    }
+
+    #header-navbar-section .btn a {
+        color: #000;
+    }
+    /*=======================================================
+         header-navbar-section responsive end 
+    ======================================================== */
+
+
+    /*=======================================================
+        banner-features-part responsive start 
+     ====================================================== */
+     #banner-features-part .banner-left-text h1 {
+        font-size: 47px;
+    }
+     /*===========================================================
+             banner-features-part responsive end 
+    ============================================================ */
+
+
+    /*=============================================================
+          benefits-of-working-part responsive start 
+    ============================================================== */
+    #benefits-of-working-part .header-part h2 {
+        font-size: 44px;
+        line-height: 62px;
+    }
+    /*=============================================================
+          benefits-of-working-part responsive end
+    ============================================================== */
+
+
+    /*=============================================================
+           Use-Client-first-part responsive start 
+    ============================================================== */
+    #Use-Client-first-part .Use-client-left-text h3 {
+        font-size: 35px;
+        line-height: 56px;
+    }
+
+    #Use-Client-first-part .Use-client-left-text p {
+        line-height: 25px;
+    }
+    
+    /*=============================================================
+           Use-Client-first-part responsive end
+    ============================================================== */
+
+    
+    /*=============================================================
+           Free-revision-rounds-part responsive start 
+    ============================================================== */
+    #Free-revision-rounds-part .Use-client-left-text h3 {
+        font-size: 35px;
+        line-height: 56px;
+    }
+    /*=============================================================
+           Free-revision-rounds-part responsive end 
+    ============================================================== */
+
+
+
+    /*=============================================================
+           Support-part-section responsive start 
+    ============================================================== */
+    #Support-part-section .support-left-text h3 {
+        font-size: 35px;
+        line-height: 58px;
+    }
+    /*=============================================================
+          Support-part-section responsive end 
+    ============================================================== */
+
+
+     /*=============================================================
+          Quick-delivery-part responsive start 
+    ============================================================== */
+    #Quick-delivery-part .Delivery-right-text h3 {
+        font-size: 35px;
+        line-height: 56px;
+    }
+    /*=============================================================
+           Quick-delivery-part responsive end 
+    ============================================================== */
+
+
+    /*=============================================================
+           Frequently-asked-question-part responsive start 
+    ============================================================== */
+    #Frequently-asked-question-part .FAQ-header-part h3 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    #Frequently-asked-question-part .accordion-item strong {
+        font-size: 22px;
+    }
+
+    #Frequently-asked-question-part .accordion-item h6 {
+        font-size: 23px;
+        font-weight: 500;
+        line-height: 36px;
+    }
+
+    #Frequently-asked-question-part .accordion-item .accordion-body {
+        margin-left: 81px;
+    }
+    /*=============================================================
+           Frequently-asked-question-part responsive end 
+    ============================================================== */
+
+    /*=============================================================
+           footer-part-section responsive start 
+    ============================================================== */
+    #footer-part-section .footer-right-text h2 {
+        font-size: 34px;
+        margin-top: 12px;
+    }
+
+    #footer-part-section .footer-right-text .social-icon-footer a i {
+        margin-bottom: 45px;
+    } 
+    /*=============================================================
+           footer-part-section responsive end 
+    ============================================================== */
+}
+
+/* =======================================================
+  ******* @media  Medium devices  responsive end *******
+=========================================================*/
+
+
+/* =========================================================
+  ******* @media  (Small devices)  responsive start *******
+============================================================*/
+
+@media (max-width: 767.98px) {
+
+/* ====================================
+   Figma-users-part responsive start
+====================================== */
+#Figma-users-part .users-number h3 {
+    line-height: 56px;
+    margin-top: -29px;
+}
+/* ====================================
+   Figma-users-part responsive end
+====================================== */
+
+/* ===============================================
+     benefits-of-working-part responsive start
+=================================================*/
+#benefits-of-working-part .header-part h2 {
+    font-size: 36px;
+    line-height: 62px;
+}
+/* ===============================================
+     benefits-of-working-part responsive end
+=================================================*/
+
+/* ===============================================
+    Use-Client-first-part responsive start
+=================================================*/
+#Use-Client-first-part .Use-client-left-text h3 {
+    font-size: 32px;
+    line-height: 56px;
+}
+/* ===============================================
+    Use-Client-first-part responsive start
+=================================================*/
+
+/* ====================================================
+    Frequently-asked-question-part responsive start
+========================================================*/
+#Frequently-asked-question-part .FAQ-header-part a {
+    margin-bottom: 30px;
+}
+
+#Frequently-asked-question-part .accordion-item .accordion-body {
+    margin-left: 32px;
+    font-size: 15px;
+}
+/* ====================================================
+    Frequently-asked-question-part responsive end
+========================================================*/
+
+}
+/* =========================================================
+  ******* @media  (Small devices)  responsive end *******
+============================================================*/
+
+
+/* ============================================================
+    ******* @media  (X-Small devices)  responsive end *******
+===============================================================*/
+@media (max-width: 575.98px) {
+
+    /*------------ banner-features-part start ----------- */
+    #banner-features-part .banner-left-text h1 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+     /*---------- banner-features-part end ---------- */
+
+     
+    /*------------ benefits-of-working-part  start ----------- */
+    #benefits-of-working-part .header-part h2 {
+        font-size: 32px;
+        line-height: 52px;
+    }
+     /*------------ benefits-of-working-part end ----------- */
+
+
+    /*------------ Use-Client-first-part   start ----------- */
+    #Use-Client-first-part .Use-client-left-text h3 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+     /*------------ Use-Client-first-part end ----------- */
+
+
+    /*------------ Free-revision-rounds-part   start ----------- */
+    #Free-revision-rounds-part .Use-client-left-text h3 {
+        font-size: 29px;
+        line-height: 43px;
+    }
+    /*------------ Free-revision-rounds-part end ----------- */
+
+
+    /*------------ Support-part-section   start ----------- */
+    #Support-part-section .support-left-text h3 {
+        font-size: 26px;
+        line-height: 46px;
+    }
+     /*------------ Support-part-section  end ----------- */
+
+
+    /*------------ Quick-delivery-part  start ----------- */
+    #Quick-delivery-part .Delivery-right-text h3 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+    /*------------ Quick-delivery-part end ----------- */
+
+
+    /*------------ Frequently-asked-question-part  start ----------- */
+    #Frequently-asked-question-part .FAQ-header-part h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+
+    #Frequently-asked-question-part .accordion-item strong {
+        font-size: 15px;
+    }
+
+    #Frequently-asked-question-part .accordion-item h6 {
+        font-size: 14px;
+        line-height: 24px;
+        margin-left: -40px;
+    }
+    /*------------ Frequently-asked-question-part end ----------- */
+
+
+    /*------------ footer-part-section  start ----------- */
+    #footer-part-section .footer-right-text h2 {
+        font-size: 33px;
+        margin-top: 12px;
+        line-height: 53px;
+    }
+
+}
